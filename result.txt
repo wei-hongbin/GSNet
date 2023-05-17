@@ -1,0 +1,9 @@
+dataset: Kvasir M_dice: 0.9301 M_iou: 0.8828   wfm: 0.9231 Sm: 0.9339 Em: 0.9684 MAE: 0.0199  Ber: 0.0437 maxF: 0.9496 avgF: 0.9381 Acc: 0.9802
+
+dataset: CVC_ClinicDB M_dice: 0.9416 M_iou: 0.8981   wfm: 0.9372 Sm: 0.9500 Em: 0.9840 MAE: 0.0064  Ber: 0.0258 maxF: 0.9508 avgF: 0.9307 Acc: 0.9937
+
+dataset: CVC_ColonDB M_dice: 0.8219 M_iou: 0.7457   wfm: 0.8049 Sm: 0.8739 Em: 0.9220 MAE: 0.0258  Ber: 0.0869 maxF: 0.8507 avgF: 0.8150 Acc: 0.9743
+
+dataset: ETIS_LaribPolypDB M_dice: 0.8015 M_iou: 0.7244   wfm: 0.7626 Sm: 0.8706 Em: 0.9055 MAE: 0.0127  Ber: 0.0637 maxF: 0.8195 avgF: 0.7670 Acc: 0.9875
+
+dataset: CVC_300 M_dice: 0.9086 M_iou: 0.8441   wfm: 0.8889 Sm: 0.9393 Em: 0.9719 MAE: 0.0069  Ber: 0.0263 maxF: 0.9125 avgF: 0.8781 Acc: 0.9932
